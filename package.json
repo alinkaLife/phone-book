@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andrew65215584.github.io/goit-react-hw-06-phonebook/",
+  "homepage": "https://alinkaLife.github.io/phone-book/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "@testing-library/jest-dom": "^4.2.4",
